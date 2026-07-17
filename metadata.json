@@ -1,0 +1,6 @@
+{
+  "name": "GestiStock",
+  "description": "Application modern de Gestion de Stock avec des rôles, dépôts, mouvements, et rapports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
